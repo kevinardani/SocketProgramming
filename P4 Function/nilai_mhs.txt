@@ -1,0 +1,5 @@
+Dina,70
+Gary,65
+Timoti,75
+Anggun,80
+Ria,85

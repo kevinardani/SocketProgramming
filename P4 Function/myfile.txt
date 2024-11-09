@@ -1,0 +1,5 @@
+Praktikum Socket Programming
+Belajar Dasar Python 
+
+Kalimat ini akan ditambahkan ke file
+Silakan ganti konten kalimat
